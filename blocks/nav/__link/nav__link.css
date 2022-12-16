@@ -1,0 +1,21 @@
+.nav__link {
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media screen and (max-width: 1000px) {
+  .nav__link {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .nav__link {
+    font-size: 12px;
+    line-height: 18px;
+  }
+}

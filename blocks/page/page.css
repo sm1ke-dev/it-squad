@@ -1,6 +1,6 @@
 .page {
-  max-width: 880px;
-  min-width: 282px;
+  max-width: 1247px;
+  min-width: 350px;
   padding: 0 50px;
   margin: 0 auto;
   font-family: 'Neue Montreal', Arial, sans-serif;
@@ -8,4 +8,10 @@
   color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (max-width: 1440px) {
+  .page {
+    max-width: 86.60vw;
+  }
 }

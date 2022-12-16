@@ -1,0 +1,28 @@
+.nav__item {
+  min-height: 40px;
+  width: 115px;
+  border: 1px solid #BFE55E;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.nav__item:hover {
+  opacity: .5;
+}
+
+@media screen and (max-width: 1000px) {
+  .nav__item {
+    width: 90px;
+    min-height: 30px;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .nav__item {
+    width: 80px;
+  }
+}

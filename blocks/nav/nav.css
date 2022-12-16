@@ -1,0 +1,24 @@
+.nav {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  column-gap: 40px;
+}
+
+@media screen and (max-width: 1000px) {
+  .nav {
+    column-gap: 30px;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .nav {
+    column-gap: 25px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .nav {
+    display: none;
+  }
+}
