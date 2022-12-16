@@ -1,0 +1,21 @@
+.advantages__number {
+  margin: 0;
+  color: #CBCBCB;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+@media screen and (max-width: 1440px) {
+  .advantages__number {
+    font-size: 1.39vw;
+    line-height: 1.67vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .advantages__number {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
