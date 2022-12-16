@@ -1,0 +1,21 @@
+.about__photo-1 {
+  width: 570px;
+  height: 575px;
+}
+
+@media screen and (max-width: 1440px) {
+  .about__photo-1 {
+    width: 39.58vw;
+    height: 39.93vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .about__photo-1 {
+    align-self: center;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+

@@ -1,0 +1,9 @@
+.content__about {
+  margin-top: 160px;
+}
+
+@media screen and (max-width: 660px) {
+  .content__about {
+    margin-top: 85px;
+  }
+}

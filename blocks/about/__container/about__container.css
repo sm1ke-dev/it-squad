@@ -1,0 +1,25 @@
+.about__container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 70px;
+}
+
+@media screen and (max-width: 1440px) {
+  .about__container {
+    row-gap: 4.86vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .about__container {
+    row-gap: 35px;
+    align-items: flex-start;
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 446px) {
+  .about__container {
+    width: auto;
+  }
+}
