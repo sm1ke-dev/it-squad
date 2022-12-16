@@ -1,0 +1,19 @@
+.main__work-text {
+  margin: 50px auto;
+  width: 155px;
+  min-height: 40px;
+  font-size: 18px;
+  line-height: 22px;
+  text-transform: uppercase;
+  border: 1px solid #BFE55E;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 660px) {
+  .main__work-text {
+    margin: 39px 0 0;
+  }
+}

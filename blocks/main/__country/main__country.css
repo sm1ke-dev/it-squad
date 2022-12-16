@@ -1,0 +1,12 @@
+.main__country {
+  text-align: right;
+  font-style: italic;
+  color: #CBCBCB;
+  margin: 0;
+}
+
+@media screen and (max-width: 660px) {
+  .main__country {
+    display: none;
+  }
+}

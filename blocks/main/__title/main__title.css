@@ -1,0 +1,22 @@
+.main__title {
+  margin: 0;
+  font-weight: 500;
+  font-size: 130px;
+  line-height: 156px;
+  text-transform: uppercase;
+  color: #BFE55E;
+}
+
+@media screen and (max-width: 1000px) {
+  .main__title {
+    font-size: 100px;
+    line-height: 115px;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .main__title {
+    font-size: 60px;
+    line-height: 72px;
+  }
+}

@@ -15,3 +15,10 @@
     max-width: 86.60vw;
   }
 }
+
+@media screen and (max-width: 660px) {
+  .page {
+    padding: 0;
+    max-width: 89.74vw;
+  }
+}

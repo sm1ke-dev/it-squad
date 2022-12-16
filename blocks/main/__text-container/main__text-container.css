@@ -1,0 +1,17 @@
+.main__text-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 1360px) {
+  .main__text-container {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .main__text-container {
+    align-items: flex-start;
+  }
+}
