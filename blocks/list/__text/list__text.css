@@ -1,0 +1,19 @@
+.list__text {
+  margin: 0;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+@media screen and (max-width: 1440px) {
+  .list__text {
+    font-size: 2.08vw;
+    line-height: 2.50vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .list__text {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}

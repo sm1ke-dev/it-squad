@@ -1,0 +1,11 @@
+@media screen and (max-width: 660px) {
+  .subtitle_centered {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 446px) {
+  .subtitle_centered {
+    width: auto;
+  }
+}

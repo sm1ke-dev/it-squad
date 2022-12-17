@@ -1,0 +1,18 @@
+.services__button {
+  transform: rotate(225deg);
+  position: absolute;
+  right: 0;
+  top: 20px;
+}
+
+@media screen and (max-width: 1440px) {
+  .services__button {
+    top: 1.39vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .services__button {
+    top: 20px;
+  }
+}

@@ -1,0 +1,23 @@
+.services {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, minmax(min-content, max-content));
+  column-gap: 100px;
+  row-gap: 70px;
+}
+
+@media screen and (max-width: 1440px) {
+  .services {
+    column-gap: 6.94vw;
+    row-gap: 4.86vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+  }
+}

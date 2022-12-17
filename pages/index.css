@@ -23,13 +23,14 @@
 @import url(../blocks/main/__subtitle/main__subtitle.css);
 @import url(../blocks/main/__photo/main__photo.css);
 @import url(../blocks/main/__work-text/main__work-text.css);
+@import url(../blocks/button/button.css);
 @import url(../blocks/main/__button/main__button.css);
 
 @import url(../blocks/content/__about/content__about.css);
 @import url(../blocks/about/about.css);
 @import url(../blocks/about/__container/about__container.css);
-@import url(../blocks/about/__title/about__title.css);
-@import url(../blocks/about/__subtitle/about__subtitle.css);
+@import url(../blocks/title/title.css);
+@import url(../blocks/subtitle/subtitle.css);
 @import url(../blocks/about/__photo-1/about__photo-1.css);
 @import url(../blocks/about/__text/about__text.css);
 @import url(../blocks/about/__photo-2/about__photo-2.css);
@@ -37,21 +38,37 @@
 
 @import url(../blocks/content/__advantages/content__advantages.css);
 @import url(../blocks/advantages/advantages.css);
+@import url(../blocks/title/_centered/title_centered.css);
 @import url(../blocks/advantages/__title/advantages__title.css);
 @import url(../blocks/advantages/__container/advantages__container.css);
+@import url(../blocks/subtitle/subtitle.css);
 @import url(../blocks/advantages/__subtitle/advantages__subtitle.css);
+@import url(../blocks/subtitle/_section_advantages/subtitle_section_advantages.css);
+@import url(../blocks/subtitle/_centered/subtitle_centered.css);
+@import url(../blocks/list/list.css);
 @import url(../blocks/advantages/__list/advantages__list.css);
+@import url(../blocks/list/__item/list__item.css);
 @import url(../blocks/advantages/__item/advantages__item.css);
-@import url(../blocks/advantages/__number/advantages__number.css);
+@import url(../blocks/list/__number/list__number.css);
+@import url(../blocks/list/__text/list__text.css);
 @import url(../blocks/advantages/__text/advantages__text.css);
 
 @import url(../blocks/content/__numbers/content__numbers.css);
 @import url(../blocks/numbers/numbers.css);
-@import url(../blocks/numbers/__title/numbers__title.css);
 @import url(../blocks/numbers/__list/numbers__list.css);
 @import url(../blocks/numbers/__item/numbers__item.css);
 @import url(../blocks/numbers/__number/numbers__number.css);
 @import url(../blocks/numbers/__description/numbers__description.css);
+
+@import url(../blocks/content/__services/content__services.css);
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__list/services__list.css);
+@import url(../blocks/list/_section_services/list_section_services.css);
+@import url(../blocks/services/__item/services__item.css);
+@import url(../blocks/list/__item/_section_services/list__item_section_services.css);
+@import url(../blocks/services/__number/services__number.css);
+@import url(../blocks/services/__text/services__text.css);
+@import url(../blocks/services/__button/services__button.css);
 
 @import url(../blocks/_green.css);
 @import url(../blocks/_italic.css);

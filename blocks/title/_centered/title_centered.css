@@ -1,0 +1,13 @@
+@media screen and (max-width: 660px) {
+  .title_centered {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (max-width: 446px) {
+  .title_centered {
+    width: auto;
+  }
+}

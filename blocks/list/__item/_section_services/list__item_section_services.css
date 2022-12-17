@@ -1,0 +1,7 @@
+.list__item_section_services {
+  position: relative;
+}
+
+.list__item_section_services:not(:last-child) {
+  border-bottom: 1px solid #F3FFCE;
+}

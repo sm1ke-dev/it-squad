@@ -1,0 +1,15 @@
+.content__services {
+  margin-top: 160px;
+}
+
+@media screen and (max-width: 1440px) {
+  .content__services {
+    margin-top: 11.11vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .content__services {
+    margin-top: 70px;
+  }
+}

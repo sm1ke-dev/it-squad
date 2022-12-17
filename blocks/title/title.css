@@ -1,21 +1,21 @@
-.about__title {
+.title {
   margin: 0;
-  color: #BFE55E;
-  text-transform: uppercase;
+  font-weight: 400;
   font-size: 60px;
   line-height: 72px;
-  font-weight: 400;
+  text-transform: uppercase;
+  color: #BFE55E;
 }
 
 @media screen and (max-width: 1440px) {
-  .about__title {
+  .title {
     font-size: 4.17vw;
     line-height: 5vw;
   }
 }
 
 @media screen and (max-width: 660px) {
-  .about__title {
+  .title {
     font-size: 30px;
     line-height: 36px;
   }

@@ -1,0 +1,18 @@
+.services__text {
+  margin-left: 51px;
+  margin-top: 6px;
+}
+
+@media screen and (max-width: 1440px) {
+  .services__text {
+    margin-left: 3.54vw;
+    margin-top: 0.42vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .services__text {
+    margin-left: 32px;
+    margin-top: 10px;
+  }
+}

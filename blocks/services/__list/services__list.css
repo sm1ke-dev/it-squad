@@ -1,0 +1,15 @@
+.services__list {
+  padding-bottom: 40px;
+}
+
+@media screen and (max-width: 1440px) {
+  .services__list {
+    padding-bottom: 2.78vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .services__list {
+    padding-bottom: 10px;
+  }
+}

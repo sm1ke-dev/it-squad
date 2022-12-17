@@ -1,0 +1,15 @@
+.services__item:not(:last-child) {
+  padding-bottom: 40px;
+}
+
+@media screen and (max-width: 1440px) {
+  .services__item:not(:last-child) {
+    padding-bottom: 2.78vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .services__item:not(:last-child) {
+    padding-bottom: 10px;
+  }
+}

@@ -1,0 +1,17 @@
+.subtitle_section_advantages {
+  flex: 0 0 570px;
+  border-top: 1px solid #F3FFCE;
+}
+
+@media screen and (max-width: 1440px) {
+  .subtitle_section_advantages {
+    flex-basis: 39.58vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .subtitle_section_advantages {
+    flex-basis: auto;
+  }
+}
+

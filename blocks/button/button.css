@@ -1,0 +1,24 @@
+.button {
+  padding: 0;
+  display: block;
+  width: 46px;
+  height: 46px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0);
+  background-image: url(../../../images/btn-arrow.svg);
+  background-size: cover;
+}
+
+@media screen and (max-width: 1440px) {
+  .button {
+    width: 3.19vw;
+    height: 3.19vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .button {
+    width: 18px;
+    height: 18px;
+  }
+}

@@ -1,31 +1,15 @@
 .advantages__title {
-  margin: 0 0 70px 0;
-  color: #BFE55E;
-  font-size: 60px;
-  line-height: 72px;
-  text-transform: uppercase;
-  font-weight: 400;
+  margin-bottom: 70px;
 }
 
 @media screen and (max-width: 1440px) {
   .advantages__title {
     margin-bottom: 4.86vw;
-    font-size: 4.17vw;
-    line-height: 5vw;
   }
 }
 
 @media screen and (max-width: 660px) {
   .advantages__title {
-    margin: 0 auto 35px;
-    font-size: 30px;
-    line-height: 36px;
-    width: 400px;
-  }
-}
-
-@media screen and (max-width: 446px) {
-  .advantages__title {
-    width: auto;
+    margin-bottom: 35px;
   }
 }
