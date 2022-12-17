@@ -1,0 +1,5 @@
+@media screen and (max-width: 446px) {
+  .services__title {
+    margin-left: 0;
+  }
+}

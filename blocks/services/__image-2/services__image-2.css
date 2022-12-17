@@ -1,0 +1,33 @@
+.services__image-2 {
+  width: 231px;
+  height: 167px;
+  background-image: url(../../../images/services-photo-2.png);
+  background-size: cover;
+  position: absolute;
+  bottom: -25px;
+  right: 200px;
+  z-index: -1;
+}
+
+@media screen and (max-width: 1440px) {
+  .services__image-2 {
+    width: 16.04vw;
+    height: 11.60vw;
+    bottom: -1.74vw;
+    right: 13.89vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .services__image-2 {
+    width: 110px;
+    height: 80px;
+    right: 21.21vw;
+  }
+}
+
+@media screen and (max-width: 446px) {
+  .services__image-2 {
+    right: 10.09vw;
+  }
+}
