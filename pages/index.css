@@ -45,5 +45,13 @@
 @import url(../blocks/advantages/__number/advantages__number.css);
 @import url(../blocks/advantages/__text/advantages__text.css);
 
+@import url(../blocks/content/__numbers/content__numbers.css);
+@import url(../blocks/numbers/numbers.css);
+@import url(../blocks/numbers/__title/numbers__title.css);
+@import url(../blocks/numbers/__list/numbers__list.css);
+@import url(../blocks/numbers/__item/numbers__item.css);
+@import url(../blocks/numbers/__number/numbers__number.css);
+@import url(../blocks/numbers/__description/numbers__description.css);
+
 @import url(../blocks/_green.css);
 @import url(../blocks/_italic.css);

@@ -1,0 +1,30 @@
+.numbers__title {
+  margin: 0;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  text-transform: uppercase;
+  color: #BFE55E;
+}
+
+@media screen and (max-width: 1440px) {
+  .numbers__title {
+    font-size: 4.17vw;
+    line-height: 5vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .numbers__title {
+    font-size: 30px;
+    line-height: 36px;
+    width: 400px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .numbers__title {
+    width: auto;
+  }
+}
