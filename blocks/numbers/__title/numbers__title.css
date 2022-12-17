@@ -23,7 +23,7 @@
   }
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 446px) {
   .numbers__title {
     width: auto;
   }
