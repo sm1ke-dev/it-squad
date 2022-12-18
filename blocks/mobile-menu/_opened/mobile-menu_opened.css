@@ -1,3 +1,5 @@
 .mobile-menu_opened {
-  display: block;
+  visibility: visible;
+  z-index: 20;
+  right: 0;
 }
