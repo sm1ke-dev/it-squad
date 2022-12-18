@@ -1,0 +1,16 @@
+.discuss__link {
+  font-size: 18px;
+  line-height: 22px;
+  text-transform: uppercase;
+  padding: 9px 54px;
+  border: 1px solid #BFE55E;
+  border-radius: 30px;
+  text-decoration: none;
+  color: #fff;
+  opacity: 1;
+  transition: .3s;
+}
+
+.discuss__link:hover {
+  opacity: .5;
+}

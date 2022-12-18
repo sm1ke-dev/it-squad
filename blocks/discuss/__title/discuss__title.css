@@ -1,0 +1,6 @@
+@media screen and (max-width: 660px) {
+  .discuss__title {
+    width: 219px;
+    align-self: flex-start;
+  }
+}

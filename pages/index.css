@@ -103,5 +103,10 @@
 @import url(../blocks/customers/__photo-5/customers__photo-5.css);
 @import url(../blocks/customers/__photo-6/customers__photo-6.css);
 
+@import url(../blocks/content/__discuss/content__discuss.css);
+@import url(../blocks/discuss/discuss.css);
+@import url(../blocks/discuss/__title/discuss__title.css);
+@import url(../blocks/discuss/__link/discuss__link.css);
+
 @import url(../blocks/_green.css);
 @import url(../blocks/_italic.css);
