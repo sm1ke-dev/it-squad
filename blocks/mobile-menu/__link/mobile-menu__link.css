@@ -1,0 +1,15 @@
+.mobile-menu__link {
+  padding: 9px 10px;
+  font-size: 21px;
+  line-height: 26px;
+  text-transform: uppercase;
+  color: #202020;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 470px) {
+  .mobile-menu__link {
+    font-size: 4.62vw;
+    line-height: 5.64vw;
+  }
+}

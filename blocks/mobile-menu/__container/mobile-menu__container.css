@@ -1,0 +1,9 @@
+.mobile-menu__container {
+  margin: 0 auto;
+  width: 89.74vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

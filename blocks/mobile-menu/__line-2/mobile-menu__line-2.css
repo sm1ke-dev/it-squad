@@ -1,0 +1,7 @@
+.mobile-menu__line-2 {
+  display: block;
+  width: 25px;
+  height: 2px;
+  background-color: #000;
+  transform: rotate(45deg);
+}

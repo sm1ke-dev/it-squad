@@ -1,0 +1,8 @@
+.mobile-menu__button {
+  padding: 5.13vw 2.56vw;
+  border: none;
+  background-color: rgba(0, 0, 0, 0);
+  position: absolute;
+  right: 1.28vw;
+  top: 1.28vw;
+}

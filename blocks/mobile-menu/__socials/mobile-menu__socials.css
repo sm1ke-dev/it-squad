@@ -1,0 +1,9 @@
+.mobile-menu__socials {
+  margin: 0;
+  padding: 28px 0;
+  border-top: 1px solid #202020;
+  align-self: stretch;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}

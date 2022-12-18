@@ -1,0 +1,16 @@
+.mobile-menu__item {
+  width: 138px;
+  height: 48px;
+  border: 1px solid #202020;
+  border-radius: 7.69vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 470px) {
+  .mobile-menu__item {
+    width: 29.49vw;
+    height: 10.26vw;
+  }
+}

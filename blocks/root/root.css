@@ -1,3 +1,8 @@
 .root {
   background-color: #202020;
+  font-family: 'Neue Montreal', Arial, sans-serif;
+  font-weight: 400;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }

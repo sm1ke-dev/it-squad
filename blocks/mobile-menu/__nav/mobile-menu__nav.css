@@ -1,0 +1,14 @@
+.mobile-menu__nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  row-gap: 42px;
+}
+
+@media screen and (max-width: 470px) {
+  .mobile-menu__nav {
+    row-gap: 8.97vw;
+  }
+}

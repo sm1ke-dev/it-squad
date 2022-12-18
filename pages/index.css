@@ -121,3 +121,17 @@
 
 @import url(../blocks/_green.css);
 @import url(../blocks/_italic.css);
+
+@import url(../blocks/mobile-menu/mobile-menu.css);
+@import url(../blocks/mobile-menu/_opened/mobile-menu_opened.css);
+@import url(../blocks/mobile-menu/__button/mobile-menu__button.css);
+@import url(../blocks/mobile-menu/__line-1/mobile-menu__line-1.css);
+@import url(../blocks/mobile-menu/__line-2/mobile-menu__line-2.css);
+@import url(../blocks/mobile-menu/__container/mobile-menu__container.css);
+@import url(../blocks/mobile-menu/__logo/mobile-menu__logo.css);
+@import url(../blocks/mobile-menu/__nav/mobile-menu__nav.css);
+@import url(../blocks/mobile-menu/__item/mobile-menu__item.css);
+@import url(../blocks/mobile-menu/__link/mobile-menu__link.css);
+@import url(../blocks/mobile-menu/__socials/mobile-menu__socials.css);
+@import url(../blocks/mobile-menu/__social/mobile-menu__social.css);
+@import url(../blocks/mobile-menu/__social-link/mobile-menu__social-link.css);
