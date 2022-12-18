@@ -1,5 +1,7 @@
 .footer__container {
   margin: 70px 100px;
+  display: flex;
+  flex-direction: column;
 }
 
 @media screen and (max-width: 1440px) {

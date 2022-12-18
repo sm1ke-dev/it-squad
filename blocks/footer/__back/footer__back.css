@@ -1,12 +1,12 @@
 .footer__back {
-  display: block;
+  display: inline-block;
   font-size: 18px;
   line-height: 22px;
   text-transform: lowercase;
   color: #BFE55E;
   text-decoration: none;
   margin-top: 70px;
-  text-align: center;
+  align-self: center;
   opacity: 1;
   transition: .3s;
 }
