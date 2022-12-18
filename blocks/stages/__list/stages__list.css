@@ -1,0 +1,22 @@
+.stages__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, minmax(min-content, max-content));
+  column-gap: 101px;
+  row-gap: 70px;
+}
+
+@media screen and (max-width: 1440px) {
+  .stages__list {
+    column-gap: 7.01vw;
+    row-gap: 4.86vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .stages__list {
+    grid-template-columns: 1fr;
+    row-gap: 20px;
+    justify-items: center;
+  }
+}

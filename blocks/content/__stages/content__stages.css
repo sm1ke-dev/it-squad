@@ -1,0 +1,15 @@
+.content__stages {
+  margin-top: 180px;
+}
+
+@media screen and (max-width: 1440px) {
+  .content__stages {
+    margin-top: 12.50vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .content__stages {
+    margin-top: 82px;
+  }
+}

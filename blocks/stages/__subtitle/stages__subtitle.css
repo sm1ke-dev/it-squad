@@ -1,0 +1,27 @@
+.stages__subtitle {
+  margin-top: 70px;
+  margin-bottom: 70px;
+  width: 670px;
+}
+
+@media screen and (max-width: 1440px) {
+  .stages__subtitle {
+    margin-top: 4.86vw;
+    margin-bottom: 4.86vw;
+    width: 46.53vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .stages__subtitle {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 446px) {
+  .stages__subtitle {
+    width: auto;
+  }
+}

@@ -1,0 +1,15 @@
+.stages__text {
+  margin-left: 51px;
+}
+
+@media screen and (max-width: 1440px) {
+  .stages__text {
+    margin-left: 3.54vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .stages__text {
+    margin-left: 31px;
+  }
+}

@@ -1,0 +1,19 @@
+.stages__item {
+  padding-top: 20px;
+  border-top: 1px solid #F3FFCE;
+}
+
+@media screen and (max-width: 1440px) {
+  .stages__item {
+    padding-top: 1.39vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .stages__item {
+    padding-top: 0;
+    padding-bottom: 10px;
+    border-top: none;
+    border-bottom: 1px solid #F3FFCE;
+  }
+}

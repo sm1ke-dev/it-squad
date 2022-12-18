@@ -73,5 +73,12 @@
 @import url(../blocks/services/__image-1/services__image-1.css);
 @import url(../blocks/services/__image-2/services__image-2.css);
 
+@import url(../blocks/content/__stages/content__stages.css);
+@import url(../blocks/stages/stages.css);
+@import url(../blocks/stages/__subtitle/stages__subtitle.css);
+@import url(../blocks/stages/__list/stages__list.css);
+@import url(../blocks/stages/__item/stages__item.css);
+@import url(../blocks/stages/__text/stages__text.css);
+
 @import url(../blocks/_green.css);
 @import url(../blocks/_italic.css);
