@@ -1,0 +1,21 @@
+.page__credits {
+  margin: 2px 0 0 0;
+  font-size: 15px;
+  line-height: 18px;
+  color: #CBCBCB;
+  text-align: right;
+}
+
+@media screen and (max-width: 1440px) {
+  .page__credits {
+    font-size: 1.04vw;
+    line-height: 1.25vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .page__credits {
+    font-size: 12px;
+    line-height: 14px;
+  }
+}

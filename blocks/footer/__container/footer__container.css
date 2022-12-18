@@ -1,0 +1,15 @@
+.footer__container {
+  margin: 70px 100px;
+}
+
+@media screen and (max-width: 1440px) {
+  .footer__container {
+    margin: 4.86vw 6.94vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .footer__container {
+    margin: 35px 5.13vw;
+  }
+}

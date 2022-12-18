@@ -1,0 +1,32 @@
+.footer__back {
+  display: block;
+  font-size: 18px;
+  line-height: 22px;
+  text-transform: lowercase;
+  color: #BFE55E;
+  text-decoration: none;
+  margin-top: 70px;
+  text-align: center;
+  opacity: 1;
+  transition: .3s;
+}
+
+.footer__back:hover {
+  opacity: .5;
+}
+
+@media screen and (max-width: 1440px) {
+  .footer__back {
+    font-size: 1.25vw;
+    line-height: 1.53vw;
+    margin-top: 4.86vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .footer__back {
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 35px;
+  }
+}

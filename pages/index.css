@@ -108,5 +108,16 @@
 @import url(../blocks/discuss/__title/discuss__title.css);
 @import url(../blocks/discuss/__link/discuss__link.css);
 
+@import url(../blocks/page/__footer/page__footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__grid/footer__grid.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__subtitle/footer__subtitle.css);
+@import url(../blocks/footer/__contacts/footer__contacts.css);
+@import url(../blocks/footer/__list-info/footer__list-info.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__back/footer__back.css);
+@import url(../blocks/page/__credits/page__credits.css);
+
 @import url(../blocks/_green.css);
 @import url(../blocks/_italic.css);
