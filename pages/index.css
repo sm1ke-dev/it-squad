@@ -80,5 +80,13 @@
 @import url(../blocks/stages/__item/stages__item.css);
 @import url(../blocks/stages/__text/stages__text.css);
 
+@import url(../blocks/content/__team/content__team.css);
+@import url(../blocks/team/team.css);
+@import url(../blocks/team/__title/team__title.css);
+@import url(../blocks/team/__grid/team__grid.css);
+@import url(../blocks/team/__image-1/team__image-1.css);
+@import url(../blocks/team/__image-2/team__image-2.css);
+@import url(../blocks/team/__text/team__text.css);
+
 @import url(../blocks/_green.css);
 @import url(../blocks/_italic.css);

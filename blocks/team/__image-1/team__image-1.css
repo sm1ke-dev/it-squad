@@ -1,0 +1,11 @@
+.team__image-1 {
+  grid-row: 1 / -1;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 660px) {
+  .team__image-1 {
+    display: none;
+  }
+}
