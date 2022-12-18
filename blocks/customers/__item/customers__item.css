@@ -1,0 +1,27 @@
+.customers__item {
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-top: 1px solid #F3FFCE;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.customers__item:last-child {
+  border-bottom: 1px solid #F3FFCE;
+}
+
+@media screen and (max-width: 1440px) {
+  .customers__item {
+    padding-top: 1.74vw;
+    padding-bottom: 1.74vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .customers__item {
+    padding-top: 17px;
+    padding-bottom: 17px;
+  }
+}

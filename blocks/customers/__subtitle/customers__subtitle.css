@@ -1,0 +1,27 @@
+.customers__subtitle {
+  margin-top: 70px;
+  margin-bottom: 96px;
+  width: 570px;
+}
+
+@media screen and (max-width: 1440px) {
+  .customers__subtitle {
+    margin-top: 4.86vw;
+    margin-bottom: 6.67vw;
+    width: 39.58vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .customers__subtitle {
+    margin-top: 35px;
+    margin-bottom: 45px;
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 446px) {
+  .customers__subtitle {
+    width: auto;
+  }
+}

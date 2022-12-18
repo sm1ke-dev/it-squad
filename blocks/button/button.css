@@ -1,8 +1,8 @@
 .button {
   padding: 0;
   display: block;
-  width: 46px;
-  height: 46px;
+  width: 65px;
+  height: 65px;
   border: none;
   background-color: rgba(0, 0, 0, 0);
   background-image: url(../../../images/btn-arrow.svg);
@@ -11,14 +11,14 @@
 
 @media screen and (max-width: 1440px) {
   .button {
-    width: 3.19vw;
-    height: 3.19vw;
+    width: 4.51vw;
+    height: 4.51vw;
   }
 }
 
 @media screen and (max-width: 660px) {
   .button {
-    width: 18px;
-    height: 18px;
+    width: 30px;
+    height: 30px;
   }
 }

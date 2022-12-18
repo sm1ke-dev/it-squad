@@ -1,0 +1,19 @@
+.customers__photo-3 {
+  width: 455px;
+  background-image: url(../../../images/customers-photo-3.png);
+  left: 570px;
+}
+
+@media screen and (max-width: 1440px) {
+  .customers__photo-3 {
+    width: 31.60vw;
+    left: 39.58vw;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .customers__photo-3 {
+    width: 226px;
+    left: 82px;
+  }
+}
