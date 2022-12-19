@@ -10,6 +10,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #fff;
+  text-decoration: none;
+  transition: .5s;
+}
+
+.main__work-text:hover {
+  opacity: .5;
 }
 
 @media screen and (max-width: 660px) {
