@@ -1,6 +1,7 @@
 .customers__photo-2 {
   width: 324px;
   background-image: url(../../../images/customers-photo-2.png);
+  transition: background-image .5s;
   left: 570px;
 }
 

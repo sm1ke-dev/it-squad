@@ -2,4 +2,9 @@
   text-transform: uppercase;
   color: #fff;
   text-decoration: none;
+  transition: color .5s;
+}
+
+.customers__text:hover {
+  color: #BFE55E;
 }

@@ -1,24 +1,26 @@
 .button {
+  color: #BFE55E;
   padding: 0;
   display: block;
-  width: 65px;
-  height: 65px;
+  width: 47px;
+  height: 46px;
   border: none;
   background-image: url(../../images/btn-arrow.svg);
   background-color: rgba(0, 0, 0, 0);
   background-size: cover;
+  transition: background-image .5s;
 }
 
 @media screen and (max-width: 1440px) {
   .button {
-    width: 4.51vw;
-    height: 4.51vw;
+    width: 3.33vw;
+    height: 3.19vw;
   }
 }
 
 @media screen and (max-width: 660px) {
   .button {
-    width: 30px;
-    height: 30px;
+    width: 19px;
+    height: 18px;
   }
 }

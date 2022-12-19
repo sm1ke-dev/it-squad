@@ -1,6 +1,7 @@
 .main__button {
   margin: 0 auto;
   display: block;
+  transform: rotate(135deg);
 }
 
 @media screen and (max-width: 1000px) {

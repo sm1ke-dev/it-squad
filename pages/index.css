@@ -102,6 +102,13 @@
 @import url(../blocks/customers/__photo-4/customers__photo-4.css);
 @import url(../blocks/customers/__photo-5/customers__photo-5.css);
 @import url(../blocks/customers/__photo-6/customers__photo-6.css);
+@import url(../blocks/customers/__photo-bacs/customers__photo-bacs.css);
+@import url(../blocks/customers/__photo-brand/customers__photo-brand.css);
+@import url(../blocks/customers/__photo-filipp/customers__photo-filipp.css);
+@import url(../blocks/customers/__photo-home/customers__photo-home.css);
+@import url(../blocks/customers/__photo-perifit/customers__photo-perifit.css);
+@import url(../blocks/customers/__photo-urban/customers__photo-urban.css);
+@import url(../blocks/button/_hover/button_hover.css);
 
 @import url(../blocks/content/__discuss/content__discuss.css);
 @import url(../blocks/discuss/discuss.css);
